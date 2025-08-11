@@ -150,7 +150,7 @@ QuickCourt is a full-stack web application built with the MERN stack (MongoDB, E
    cd server
    npm install
    cp .env.example .env
-   # Edit .env with your configuration
+   
    ```
 
 3. Set up the frontend:
@@ -158,7 +158,7 @@ QuickCourt is a full-stack web application built with the MERN stack (MongoDB, E
    cd ../client
    npm install
    cp .env.example .env
-   # Edit .env with your API base URL
+   
    ```
 
 4. Run the application:
