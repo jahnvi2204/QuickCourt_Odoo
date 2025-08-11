@@ -1,4 +1,4 @@
-# QuickCourt - A Local Sports Booking System (MERN Stack)
+# QuickCourt - A Local Sports Booking System 
 
 ## Team Information
 - **Team Name**: VoidVipers
