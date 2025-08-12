@@ -188,7 +188,7 @@ QuickCourt is a full-stack web application built with the MERN stack (MongoDB, E
    cd client
    npm run build
    ```
-2. Deploy to Vercel
+2. Deploy to Railway
 
 ## Future Enhancements
 - Real payment gateway integration (Stripe/Razorpay)
